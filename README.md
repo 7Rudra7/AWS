@@ -25,4 +25,3 @@ This is a living repository. I’ll be adding new content regularly as I dive de
 
 ---
 
-## 🙌 Let's Build on the Cloud!
